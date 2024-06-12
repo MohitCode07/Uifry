@@ -1,7 +1,7 @@
 #Financial Decisions App
 
 <img width="1440" alt="Screenshot 2024-06-12 at 7 48 36 PM" src="https://github.com/MohitCode07/Uifry/assets/171263215/a2431981-3b67-4f0e-9155-d8aa609fbec9">
-![Screenshot 2024-06-12 at 7 48 36 PM (2)](https://github.com/MohitCode07/Uifry/assets/171263215/5291f07b-a8c0-4559-9766-97c2523eec0f)
+
 
 
 This is a React application designed to help users make the best financial decisions. The app features a user-friendly interface with various sections including Home, Features, Advantages, About Us, and FAQ.

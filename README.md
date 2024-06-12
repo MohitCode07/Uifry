@@ -22,4 +22,4 @@ Features
 ->Smooth scrolling between sections<br>
 ->Interactive buttons and animations<br>
 
-live link =====> https://6669ad15a751ef391fce490c--super-medovik-ecade8.netlify.app
+live link =====> https://mohit-uifry-mf7yj0iyk-mohits-projects-429237c8.vercel.app

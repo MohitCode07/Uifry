@@ -8,23 +8,18 @@ This is a React application designed to help users make the best financial decis
 
 Technologies Used
 
-->React: JavaScript library for building user interfaces.
-
-->Chakra UI: A simple, modular, and accessible component library for React.
-
-->React Scroll: Scroll animations for React.
-
-->CSS Modules: CSS file in which all class and animation names are scoped locally by default.
-
-->React Icons: Popular icons for React projects.
-
-->Dark Mode Toggle: A simple dark mode toggle component.
+->React: JavaScript library for building user interfaces.<br>
+->Chakra UI: A simple, modular, and accessible component library for React.<br>
+->React Scroll: Scroll animations for React.<br>
+->CSS Modules: CSS file in which all class and animation names are scoped locally by default.<br>
+->React Icons: Popular icons for React projects.<br>
+->Dark Mode Toggle: A simple dark mode toggle component.<br>
 
 Features
 
 ->Responsive design<br>
-->Dark mode toggle
-->Smooth scrolling between sections
-->Interactive buttons and animations
+->Dark mode toggle<br>
+->Smooth scrolling between sections<br>
+->Interactive buttons and animations<br>
 
 live link =====> https://6669ad15a751ef391fce490c--super-medovik-ecade8.netlify.app

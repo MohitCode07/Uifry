@@ -1,0 +1,30 @@
+
+.left{
+    grid-area: left;
+    /* border: 1px solid black; */
+}
+
+.right{
+    grid-area: right;
+    /* border: 1px solid black; */
+}
+
+.container{
+    display: grid;
+    grid-template-areas: "left right";
+    grid-template-columns: auto auto;
+}
+
+@media all and (max-width: 1024px) {
+
+    .container{
+        display: grid;
+        grid-template-areas:
+        "right"
+        "left"
+        ;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto;
+    }
+    
+}

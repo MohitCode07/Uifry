@@ -22,7 +22,7 @@ Technologies Used
 
 Features
 
-->Responsive design
+->Responsive design<br>
 ->Dark mode toggle
 ->Smooth scrolling between sections
 ->Interactive buttons and animations
